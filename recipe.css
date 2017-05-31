@@ -1,0 +1,23 @@
+body {
+text-align:center;
+background: PINK;
+color:antiquewhite
+}
+    img{
+
+border: 5px white solid; 
+border-radius:40px;    
+}
+   
+ul{
+padding-left: 320px;
+padding-right: 320px;
+list-style:disc;
+    
+}
+ol{
+ padding-left: 320px;   
+ padding-right: 320px;   
+  list style:lower-roman;  
+
+}
